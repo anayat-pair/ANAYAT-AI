@@ -18,7 +18,7 @@ cmd({
         const pinterestUrl = args[0];
 
         // Call your Pinterest download API
-        const response = await axios.get(`https://api.giftedtech.web.id/api/download/pinterestdl?apikey=gifted&url=${encodeURIComponent(pinterestUrl)}`);
+        const response = await axios.get(`https://bk9.fun/download/pinterest?url=${encodeURIComponent(pinterestUrl)}`);
 
         if (!response.data.success) {
             return reply('❎ Failed to fetch data from Pinterest.');
@@ -32,7 +32,7 @@ cmd({
         const videoUrl = media.find(item => item.type.includes('720p'))?.download_url || media[0].download_url;
 
         // Prepare the new message with the updated caption
-        const desc = `╭━━━〔 *ARSLAN-MD* 〕━━━┈⊷
+        const desc = `╭━━━〔 *ANAYAT-AI* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *PINS DOWNLOADER*
 ┃▸└───────────···๏
@@ -41,7 +41,7 @@ cmd({
 ┇๏ *Title* - ${title}
 ┇๏ *Media Type* - ${media[0].type}
 ╰━━❑━⪼
-> *𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓*`;
+> *𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈*`;
 
         // Send the media (video or image) to the user
         if (videoUrl) {

@@ -1,7 +1,7 @@
 {
   "name": "ANAYAT-AI",
   "description": "Javascript WhatsApp bot made by 𝘼𝙉𝘼𝙔𝘼𝙏-𝙆𝙃𝘼𝙉",
-  "logo": "https://files.catbox.moe/rexuf8.jpg",
+  "logo": "https://files.catbox.moe/adhn5v.jpg",
   "keywords": ["ANAYAT-AI"],
   "success_url": "/",
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/qpnazl.jpg"
+      "value": "https://files.catbox.moe/adhn5v.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘼𝙉𝘼𝙔𝘼𝙏-𝙆𝙃𝘼𝙉 ❣️*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘼𝙉𝘼𝙔𝘼𝙏-𝙆𝙃𝘼𝙉 ❣️*"
     },
 
       "DELETE_LINKS": {
