@@ -1,4 +1,4 @@
-//Created By ANAYAT-AI don't copy without permission of owner
+//Created By QADEER-AI don't copy without permission of owner
 
 
 
