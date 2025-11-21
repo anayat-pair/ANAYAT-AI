@@ -19,7 +19,7 @@ cmd({
         await reply("🔍 Checking for Anayat-AI updates...");
 
         // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main");
+        const { data: commitData } = await axios.get("https://api.github.com/repos/ANAYAT-AI/ANAYAT-AI/commits/main");
         const latestCommitHash = commitData.sha;
 
         // Get the stored commit hash from the database
@@ -33,7 +33,7 @@ cmd({
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/ANAYAT-AI/ANAYAT-AI/archive/refs/heads/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
