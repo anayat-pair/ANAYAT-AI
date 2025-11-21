@@ -44,7 +44,10 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "/Anayat-AI-main");
+
+        // ✅ FIXED ONLY THIS LINE — no slash, correct folder name
+        const sourcePath = path.join(extractPath, "ANAYAT-AI-main");
+
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
