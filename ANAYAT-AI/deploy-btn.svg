@@ -11,7 +11,7 @@
   </defs>
   <rect rx="12" width="260" height="60" fill="url(#grad2)"/>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        fill="white" font-size="15" font-family="monospace">🔥 DEPLOY ON HEROKU</text>
+        fill="white" font-size="15" font-family="monospace">🚀 DEPLOY ON HEROKU</text>
   <circle r="3" fill="cyan">
     <animateMotion dur="5s" repeatCount="indefinite" path="M0,20 H260"/>
   </circle>
