@@ -14,7 +14,7 @@ ___
 
 
   
-<h1 align="center">Fork This Project</h1>
+<h1 align="center">𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝙿𝚁𝙾𝙹𝙴𝙲𝚃</h1>
 
 <p align="center">
   <a href="https://github.com/ANAYAT/ANAYAT-AI/fork">
@@ -23,7 +23,7 @@ ___
 </p>
 
 
-<h1 align="center"> 𝐆𝐞𝐭 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 </h1>
+<h1 align="center"> 𝙶𝙴𝚃 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 </h1>
 
 <p align="center">
   <a href="https://anayat-ai-804.onrender.com">
@@ -31,7 +31,7 @@ ___
   </a>
 </p>
 
-<h1 align="center"> 𝐃𝐄𝐏𝐋𝐎𝐘 </h1>
+<h1 align="center"> 𝙳𝙴𝙿𝙻𝙾𝚈 </h1>
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main">
@@ -42,7 +42,7 @@ ___
 
 
 
-<h1 align="center"> 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 </h1>
+<h1 align="center"> 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 </h1>
 
 
 <p align="center">
@@ -71,11 +71,11 @@ ___
 ___
 
 
-𝗜𝗠 𝗔𝗡𝗔𝗬𝗔𝗧 𝗛𝗔𝗖𝗞𝗘𝗥 🦋 
+𝗜 𝗠 𝗔𝗡𝗔𝗬𝗔𝗧 𝗛𝗔𝗖𝗞𝗘𝗥 🦋 
 
 ___
 
 ### ⭐ Support
 If you like **ANAYAT-AI**, give it a ⭐ on GitHub — it helps others find this bot easily!
 
-<p align="center">Made With 🤍 by <b>𓆩𝗔𝗡𝗔𝗬𝗔𝗧 𝗛𝗔𝗖𝗞𝗘𝗥🐍🍷🌹</b></p>
+<p align="center">𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 🤍 𝙱𝚈 <b>𓆩𝙰𝙽𝙰𝚈𝙰𝚃 𝙷𝙰𝙲𝙺𝙴𝚁🐍🍷🌹</b></p>
