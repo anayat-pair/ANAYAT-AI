@@ -13,6 +13,6 @@
     <animate attributeName="cx" values="90;240;90" dur="2.8s" repeatCount="indefinite"/>
   </circle>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="16" font-weight="bold">
-    Contact Developer
+    Contact Developer ✨
   </text>
 </svg>
