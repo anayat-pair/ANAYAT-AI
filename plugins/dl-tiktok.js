@@ -16,7 +16,7 @@ async (conn, mek, m, { from, args, q, reply }) => {
         
         reply("Downloading video, please wait...");
         
-        const apiUrl = `https://delirius-apiofc.vercel.app/download/tiktok?url=${q}`;
+        const apiUrl = `https://arslanmd-api.vercel.app/api/ttdl?url=${q}`;
         const { data } = await axios.get(apiUrl);
         
         if (!data.status || !data.data) return reply("Failed to fetch TikTok video.");
