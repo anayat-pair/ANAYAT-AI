@@ -29,7 +29,7 @@ cmd({
       }
       _0x2d6fc6 = _0x450784.videos[0x0].url;
     }
-    let _0x2dbca0 = await fetch('https://gtech-api-xtp1.onrender.com/api/audio/yt?apikey=APIKEY&url=' + encodeURIComponent(_0x2d6fc6));
+    let _0x2dbca0 = await fetch('https://jawad-tech.vercel.app/download/yt?url=$' + encodeURIComponent(_0x2d6fc6));
     let _0x2cc18f = await _0x2dbca0.json();
     if (!_0x2cc18f.status) {
       return _0x13cbf0("Failed to fetch audio.");
@@ -56,7 +56,7 @@ cmd({
   'alias': ["vid", "ytv"],
   'desc': "Download YouTube Video",
   'category': 'downloader',
-  'react': '🪄',
+  'react': '🎥',
   'filename': __filename
 }, async (_0x291138, _0x40711d, _0x320efe, {
   from: _0x3764b7,

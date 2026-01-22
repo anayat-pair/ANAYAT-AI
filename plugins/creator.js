@@ -13,9 +13,9 @@ async (conn, mek, m, { from, sender, reply }) => {
     try {
         // Owner information (you can modify these values)
         const ownerInfo = {
-            name: "𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈",
+            name: "𝐀𝐍𝐀𝐘𝐀𝐓-𝐊𝐈𝐍𝐆",
             number: "+923452401207",
-            photo: "https://files.catbox.moe/rexuf8.jpg",
+            photo: "https://files.catbox.moe/gvbtl1.jpg",
             bio: "The creator of this amazing bot"
         };
 
